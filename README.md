@@ -5,6 +5,7 @@
 <div align="center"><strong>browserify</strong></div>
 <div align="center"><strong>Getting started</strong></div>
 <div align="center">If you're new to browserify, check out the <a href="https://github.com/browserify/browserify-handbook" target="_blank">browserify handbook</a> and the resources on <a href="http://browserify.org/" target="_blank">browserify.org</a>.
+</div>
 
 ## Installation
 
