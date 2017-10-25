@@ -10289,8 +10289,8 @@ function registerHandler() {
 }
 
 registerHandler();
-console.log("Sda");
 tasks.render();
+exports.tasks = tasks;
 console.log(tasks);
 
 },{"./tasks":5,"jquery":1}],3:[function(require,module,exports){

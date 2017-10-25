@@ -33,6 +33,6 @@ function registerHandler() {
 }
 
 registerHandler();
-console.log("Sda");
 tasks.render();
+exports.tasks = tasks;
 console.log(tasks);
