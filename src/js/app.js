@@ -34,5 +34,6 @@ function registerHandler() {
 
 registerHandler();
 tasks.render();
+
 exports.tasks = tasks;
 console.log(tasks);
